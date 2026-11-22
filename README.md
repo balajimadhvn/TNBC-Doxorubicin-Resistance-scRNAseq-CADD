@@ -37,7 +37,7 @@ If using this work, please cite:
 ## 👨‍💻 Author
 **Balaji C.**  
 M.Sc. Bioinformatics  
-Email: balaji150403@gmail.com  
+Email: balajimadhvn@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/balajimadhvn/) | [GitHub](https://github.com/balajimadhvn)
 
 ---
